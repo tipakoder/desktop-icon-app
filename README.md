@@ -1,17 +1,17 @@
 <div style="text-align:center">
 <img src="data/icons/app.svg" alt="Application Icon">
 </div>
+
 <br>
+
 <div style="text-align:center">
 <h1>Desktop Icon Application</h1>
-
 <p>
-I'm begginer C++ developer.
-<br>It test project.
+Hi, I'm a novice C++ developer.<br>
+This is a test project.
 
-This is app developing for linux users. It application can show you all <b>*.desktop</b> files, which launch our apps.
-<br>
-<b>Development stack:</b> C++ (gtkmm-3.0), maybe glade(not).
+This application is being developed for Linux users. Its capabilities include showing all <b>*.desktop</b> files that launch applications from the menu.<br><br>
+<b>Development stack:</b> Eclipse, C++ (gtkmm-3.0), possibly glade (not exactly).
 </p>
 </div>
 
